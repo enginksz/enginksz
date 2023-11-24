@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Development for Autonomous Driving Software, Computer Vision, SLAM ,ROS and Perception
-- 👌 I’m highly proficient in: C/c++, Python, ROS
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on Software Development for Autonomous Driving Software, Computer Vision, SLAM ,ROS, etc.
+- 👌 I’m highly proficient in: C/c++, Python, ROS, Computer Vision
+- 🌱 I’m currently learning Reinforcement Learning for Motion Planning
 - 👯 I’m looking to collaborate with other content creators
 - 📫 Connect with me:enginksz@hotmail.com
 
