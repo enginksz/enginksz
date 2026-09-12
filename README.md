@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engin</h1>
 
 <h3 align="center">
-Autonomous Driving Engineer | Perception • Localization • Mapping
+Senior Robotic & Autonomy Engineer | Perception • Localization • Mapping
 </h3>
 
 <p align="center">
