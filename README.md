@@ -47,14 +47,5 @@ alt="LinkedIn" height="30" width="40" />
 ...
 </p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=enginksz&show_icons=true&locale=en&layout=compact"
-alt="enginksz" />
-</p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api?username=enginksz&show_icons=true&locale=en"
-alt="enginksz" />
-</p>
+
